@@ -1,12 +1,5 @@
 # Building a Fullstack Netflix Clone with React, NextJS, TailwindCSS & Prisma
 
-You can use
-username: test@gmail.com
-password: 12345
-to try it without creating account
-
-Demo:
-
 Features:
 
 - Environment, Typescript, NextJS Setup
